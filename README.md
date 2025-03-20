@@ -22,12 +22,42 @@ UNIDAD 1 EJERCICIOS 1
     1,3,5,7,9, numeros impares
 
 
-         UNIDAD 2
+         CLASE 2
     EJERCICIO 1
     INICIO
         escribir "Ingresar numero"
+
+
     leer numero
-    Si (numero mod==0) entonces
+
+     Si (numero mod==0) entonces
+  
     escribir "el numero es par"
+  
+    sino
+         escribir "El numero es impar"
+    Fin
+
+    EJERCICIO 2
+    diagrama de flujo de inscripcion a una plataforma en linea
+
+![WhatsApp Image 2025-03-20 at 11 15 49 AM](https://github.com/user-attachments/assets/f8648668-9063-4e9a-af8c-40ac93eda1aa)
+
+
+
+
+Ejercicio 4
+
+Inicio
+
+ escribir "introducir el numero"
+  
+     leer numero
+    
+      si n  < 0 entonces
+    
+          escribir  " el factorial no es para numeros negativos.."
+          fin si
+      
     
     
